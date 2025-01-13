@@ -26,7 +26,7 @@ const Hero = () => {
           Hi, my name is Emir.
         </p>
         <a href="#about">
-          <MagicButton title="Show my work" />
+          <MagicButton title="Show my work" icon={<FaLocationArrow />} position="right" />
         </a>
       </div>
     </div>
